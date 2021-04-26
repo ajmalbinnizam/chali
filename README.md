@@ -1,5 +1,5 @@
 <h1 align="center">:evergreen_tree: Linktree</h1>
-<h3 align="center">Simple site to group all my profiles on social networks in one place.</h3>
+<h3 align="center">Simple site to group chaliplusplus social links in one place.</h3>
 
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/ajmalbinnizam/linktree?color=%234caf50">
@@ -47,4 +47,4 @@
 
 ---
 
-Made with ♥ by Chali plus plus :wave: [Get in touch](https://instagram.com/chalipluplus)
+Made with ♥ by Ajmal Bin Nizam :wave: [Get in touch](https://instagram.com/ajmalbinnizam)
