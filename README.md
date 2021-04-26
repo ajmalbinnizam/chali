@@ -5,10 +5,10 @@
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/ajmalbinnizam/linktree?color=%234caf50">
   
   <a href="https://www.linkedin.com/in/ajmalbinnizam/">
-    <img alt="Made by" src="">
+    <img alt="Made by" src="https://avatars.githubusercontent.com/u/59437292?s=60&v=4">
   </a>
   
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/ajmalbinnizam/myanimelist-profile?color=%234caf50">
+
   
   <a href="https://github.com/ajmalbinnizam/linktree/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ajmalbinnizam/linktree?color=%234caf50">
@@ -24,7 +24,7 @@
 ---
 
 <p align="center">
-  <img alt="Layout" src="https://user-images.githubusercontent.com/43749971/77254747-c0b54280-6c41-11ea-81a0-a597ee22b56e.png">
+  <img alt="Layout" src="img/layout.PNG">
 </p>
 
 ---
@@ -47,4 +47,4 @@
 
 ---
 
-Made with ♥ by Chali plus plus :wave: [Get in touch](https://ajmalbinnizam.github.io/linktree)
+Made with ♥ by Chali plus plus :wave: [Get in touch](https://instagram.com/chalipluplus)
